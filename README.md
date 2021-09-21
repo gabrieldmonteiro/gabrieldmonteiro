@@ -1,8 +1,9 @@
 ## Hi there! I'm Gabriel Monteiro 
  <div>
   <a href="https://github.com/gabrieldmonteiro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gabrieldmonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldmonteiro&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img height="170em" align="left" src="https://github-readme-stats.vercel.app/api?username=gabrieldmonteiro&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img align="center" height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldmonteiro&layout=compact&langs_count=7&theme=midnight-purple"/>
+  <img align="right" alt="Monster" height="170" src="https://cdn.discordapp.com/attachments/776594455816830976/889976959600300032/9c32a776c6c60491e33afd431dc520aa.png.png">
 </div>
 
   ##
@@ -22,9 +23,9 @@
   <img align="center" alt="Monster-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"/>
   <img align="center" alt="Monster-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"/>
   <img align="center" alt="Monster-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>  
+</div>     
  
-  ## 
+  ##  
  
 <div>   
   <a href="https://instagram.com/_gmont" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>

@@ -7,8 +7,8 @@ I'm experienced and forward-thinking Software Developer with 10 years of hands-o
 ### Welcome to my GitHub profile! 😊
 
 - 🌍  I'm based in Sao Paulo - Brazil
-- 🖥️  See my portfolio at [gabrieldmonteiroportfolio](http://https://gabrieldmonteiroportfolio.vercel.app/)
-<!-- - 🧠  I'm learning Gen AI -->
+- 🖥️  See my portfolio at [gabrieldmonteiroportfolio](https://gabrieldmonteiroportfolio.vercel.app/)
+- 🧠  Currently learning:  Gen AI
 
 ## Skills
 

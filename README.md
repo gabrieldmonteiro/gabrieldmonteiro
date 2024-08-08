@@ -8,7 +8,7 @@ I'm experienced and forward-thinking Software Developer with 10 years of hands-o
 
 - 🌍  I'm based in Sao Paulo - Brazil
 - 🖥️  See my portfolio at [gabrieldmonteiroportfolio](https://gabrieldmonteiroportfolio.vercel.app/)
-- 🧠  Currently learning:  Gen AI
+- 🧠  Currently learning:  Gen AI and Kafka
 
 ## Skills
 

@@ -2,7 +2,7 @@
 
 # I'm Gabriel
 
-I'm experienced and forward-thinking Software Developer with 10 years of hands-on expertise in architecting, developing, and deploying innovative software solutions.
+I'm experienced and forward-thinking Software Developer with +10 years of hands-on expertise in architecting, developing, and deploying innovative software solutions.
 
 ### Welcome to my GitHub profile! 😊
 
